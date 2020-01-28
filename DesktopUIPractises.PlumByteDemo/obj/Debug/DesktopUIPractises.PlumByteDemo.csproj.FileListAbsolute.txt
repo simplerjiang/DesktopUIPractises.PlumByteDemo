@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\DesktopUIPractises.PlumByteDemo\DesktopUIPractises.PlumByteDemo\bin\Debug\DesktopUIPractises.PlumByteDemo.exe.config
+C:\Users\Administrator\source\repos\DesktopUIPractises.PlumByteDemo\DesktopUIPractises.PlumByteDemo\bin\Debug\DesktopUIPractises.PlumByteDemo.exe
+C:\Users\Administrator\source\repos\DesktopUIPractises.PlumByteDemo\DesktopUIPractises.PlumByteDemo\bin\Debug\DesktopUIPractises.PlumByteDemo.pdb
+C:\Users\Administrator\source\repos\DesktopUIPractises.PlumByteDemo\DesktopUIPractises.PlumByteDemo\obj\Debug\DesktopUIPractises.PlumByteDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DesktopUIPractises.PlumByteDemo\DesktopUIPractises.PlumByteDemo\obj\Debug\DesktopUIPractises.PlumByteDemo.Form1.resources
+C:\Users\Administrator\source\repos\DesktopUIPractises.PlumByteDemo\DesktopUIPractises.PlumByteDemo\obj\Debug\DesktopUIPractises.PlumByteDemo.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DesktopUIPractises.PlumByteDemo\DesktopUIPractises.PlumByteDemo\obj\Debug\DesktopUIPractises.PlumByteDemo.UCOverview.resources
+C:\Users\Administrator\source\repos\DesktopUIPractises.PlumByteDemo\DesktopUIPractises.PlumByteDemo\obj\Debug\DesktopUIPractises.PlumByteDemo.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DesktopUIPractises.PlumByteDemo\DesktopUIPractises.PlumByteDemo\obj\Debug\DesktopUIPractises.PlumByteDemo.exe
+C:\Users\Administrator\source\repos\DesktopUIPractises.PlumByteDemo\DesktopUIPractises.PlumByteDemo\obj\Debug\DesktopUIPractises.PlumByteDemo.pdb
